@@ -1,2 +1,0 @@
-Começando
-Terminando
