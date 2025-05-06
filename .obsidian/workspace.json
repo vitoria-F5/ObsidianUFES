@@ -11,10 +11,14 @@
             "id": "a18a9183d4efd831",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Evolução do Conhecimento Cientifico/AUla do diaaa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "AUla do diaaa"
             }
           }
         ]
@@ -164,8 +168,10 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "a18a9183d4efd831",
+  "active": "ad548f1c8ea41af8",
   "lastOpenFiles": [
+    "Cálculo III/Aula do dia *****.md",
+    "Evolução do Conhecimento Cientifico/AUla do diaaa.md",
     "Cálculo III.md",
     "Física Computacional I",
     "Cálculo III",
