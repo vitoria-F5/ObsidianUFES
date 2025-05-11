@@ -1,0 +1,14 @@
+.cornell-container {
+  display: flex;
+  gap: 2rem;
+}
+
+.cornell-left {
+  width: 30%;
+  font-weight: bold;
+}
+
+.cornell-right {
+  width: 70%;
+}
+
