@@ -1,3 +1,24 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "editor:clear-formatting",
+    "editor:toggle-comments",
+    "editor:toggle-keyboard",
+    "editor:paste",
+    "editor:copy",
+    "editor:insert-mathblock"
+  ]
 }

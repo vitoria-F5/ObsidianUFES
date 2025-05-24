@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n- O que é entropia?\n- Como ela se relaciona com desordem?","x":0,"y":0,"width":300,"height":300},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\nA entropia é uma medida da desordem de um sistema. Ela aumenta em processos irreversíveis e está relacionada à 2ª lei da termodinâmica.","x":320,"y":0,"width":600,"height":300},
-		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150}
-	],
-	"edges":[]
-}
