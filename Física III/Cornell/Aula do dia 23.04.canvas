@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"Topicos\n- Atração e repulsão de cargas;\n- Íonização\n* Lei de Coulomb","x":0,"y":0,"width":300,"height":300},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n* 2 cagas iguais se repelem e 2 diferentes se atraem;\n* Ocorre quando o átomo ganha (íon negativo) ou perde (íon positivo) elétrons;\n* $F = 1$\n* $e_0 = 8,854 * 10ˆ-ˆ12 C2>N # m2$\n* k","x":320,"y":0,"width":600,"height":300},
+		{"id":"3","type":"text","text":"📌 Resumo:\n Professor deu orientções a respeito do cronogama da disciplina e foi até o exemplo 21.7","x":0,"y":320,"width":920,"height":150}
+	],
+	"edges":[]
+}

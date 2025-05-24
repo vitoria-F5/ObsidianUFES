@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3","type":"text","text":"📌 Resumo:\n (21.4) Campo Elérico e Forças Elétricas, (21.5) Determinação do Campo Elétrio","x":0,"y":320,"width":920,"height":150},
+		{"id":"1","type":"text","text":"Tópicos\n* Força Gravitacional\n* Força Peso\n* Aceleração Gravitacional\n* Órbitas Fechadas\n* Órbitas Abertas\n* Velocidade de Escape","x":0,"y":-300,"width":300,"height":600},
+		{"id":"2","type":"text","text":"Anotações Principais\n* Serve como intermediário para comunicar a força que $A$ exerce sobre $q_0$ \n\tA força elética sobre um corpo carregado é exercida pelo campo elétrico produzido por outros corpos carrgegados;\n\tFora e campo elétrico são forças vetoriais;\n\t$E = ******$\n\t* Força eletrica por unidade de carga;\n\t* *******\n\t* ***********\n\tÉ IGUAL A ZERO EM TODOS OS PONTOS O INTERIOR DE UM CONDUTOR\n* @aaaa\n* @aaaa\n* Conjunto de duas cargas iguais, porém de sinais opostos","x":300,"y":-300,"width":620,"height":600}
+	],
+	"edges":[]
+}
