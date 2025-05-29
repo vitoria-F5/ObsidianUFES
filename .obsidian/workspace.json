@@ -11,17 +11,14 @@
             "id": "bd179f7d021a8d5e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Física III/Cornell/Cornell_Template 1.canvas",
-                "viewState": {
-                  "x": 445.286737111836,
-                  "y": 228.8238727999827,
-                  "zoom": 0.5
-                }
+                "file": "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cornell_Template 1"
+              "icon": "lucide-file",
+              "title": "Resumo do Livro Evolução das idéias da Física"
             }
           }
         ]
@@ -98,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física III.md",
+                "file": "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Física III"
+              "title": "Backlinks para Resumo do Livro Evolução das idéias da Física"
             }
           },
           {
@@ -174,21 +171,28 @@
   },
   "active": "bd179f7d021a8d5e",
   "lastOpenFiles": [
-    "Física III/Perguntas e Respostas/05.05.25.md",
-    "Física III/Cornell/Cornell_Template 1.canvas",
-    "Física III/Perguntas e Respostas",
+    "Templates/Cornell_Template 1.canvas",
+    "Templates",
+    "Física III/Cornell/Aula do dia 23.04.canvas",
+    "Física III/Cornell/Aula do dia 05.05.canvas",
     "Física III/Cornell",
+    "Física III",
+    "Física II/Cornell_Template 1.canvas",
+    "Física II/Aula do dia 19.05.canvas",
+    "Física II/Aula do dia 05.05.canvas",
+    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
+    "Física III/Cornell/Cornell_Template 1.canvas",
+    "Física III/Perguntas e Respostas/05.05.25.md",
+    "Física III/Perguntas e Respostas",
     "Cálculo III/14.1) Funções de Várias Variáveis.canvas",
     "Pasted image 20250510164014.png",
     "Tabela de Revisões.md",
     "Templates/Cornell_Template.canvas",
     "Sem título.md",
     "Templates/Cornell Note Templates.md",
-    "Templates",
     "Sem título.canvas",
     "Cornell.css",
     "Física III/Untitled mindmap.md",
-    "Cálculo III/Sem título.canvas",
     "Cálculo III/Aula do dia.md",
     "Física II/Tabela de escalas.md",
     "Física Computacional I/sssss.md",
@@ -196,13 +200,12 @@
     "Física III/osoksksks.md",
     "Iniciação Científica",
     "Física II/ssssss.md",
-    "Evolução do Conhecimento Cientifico/AUla do diaaa.md",
+    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Cálculo III.md",
     "Física Computacional I",
     "Cálculo III",
     "Evolução do Conhecimento Cientifico",
     "Física III/Física III.md",
-    "Física III",
     "Física II",
     "README.md"
   ]
