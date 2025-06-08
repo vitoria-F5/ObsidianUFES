@@ -11,14 +11,17 @@
             "id": "bd179f7d021a8d5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
-                "mode": "source",
-                "source": false
+                "file": "Cálculo III/14.3) Derivadas Parciais.canvas",
+                "viewState": {
+                  "x": 460,
+                  "y": 235,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Resumo do Livro Evolução das idéias da Física"
+              "icon": "lucide-layout-dashboard",
+              "title": "14.3) Derivadas Parciais"
             }
           }
         ]
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -171,6 +173,9 @@
   },
   "active": "bd179f7d021a8d5e",
   "lastOpenFiles": [
+    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
+    "Cálculo III/14.3) Derivadas Parciais.canvas",
+    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Templates/Cornell_Template 1.canvas",
     "Templates",
     "Física III/Cornell/Aula do dia 23.04.canvas",
@@ -180,17 +185,14 @@
     "Física II/Cornell_Template 1.canvas",
     "Física II/Aula do dia 19.05.canvas",
     "Física II/Aula do dia 05.05.canvas",
-    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Física III/Cornell/Cornell_Template 1.canvas",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
     "Cálculo III/14.1) Funções de Várias Variáveis.canvas",
     "Pasted image 20250510164014.png",
     "Tabela de Revisões.md",
-    "Templates/Cornell_Template.canvas",
     "Sem título.md",
     "Templates/Cornell Note Templates.md",
-    "Sem título.canvas",
     "Cornell.css",
     "Física III/Untitled mindmap.md",
     "Cálculo III/Aula do dia.md",
@@ -200,7 +202,6 @@
     "Física III/osoksksks.md",
     "Iniciação Científica",
     "Física II/ssssss.md",
-    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Cálculo III.md",
     "Física Computacional I",
     "Cálculo III",
