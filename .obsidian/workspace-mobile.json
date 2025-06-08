@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bf4457ca5f8dad",
+        "id": "bb18b8e59b9de892",
         "type": "tabs",
         "children": [
           {
-            "id": "5f1502da9179f673",
+            "id": "589b4852a92a9e51",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física II/Aula do dia 19.05.canvas",
+                "file": "Física III/Cornell/Aula do dia 23.04.canvas",
                 "viewState": {
-                  "x": 393.7997853947047,
-                  "y": -167.8679706079083,
-                  "zoom": -0.5401138660565784
+                  "x": 460,
+                  "y": 235,
+                  "zoom": -0.39803107397315407
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aula do dia 19.05"
+              "title": "Aula do dia 23.04"
             }
           }
         ]
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f1502da9179f673",
+  "active": "589b4852a92a9e51",
   "lastOpenFiles": [
+    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Física II/Aula do dia 05.05.canvas",
     "Física II/Aula do dia 19.05.canvas",
     "Física II/Cornell_Template 1.canvas",
