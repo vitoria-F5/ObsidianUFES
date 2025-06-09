@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cálculo III/14.3) Derivadas Parciais.canvas",
+                "file": "Física III/Cornell/Cornell_Template 1 1.canvas",
                 "viewState": {
                   "x": 460,
                   "y": 235,
-                  "zoom": 0
+                  "zoom": -0.5
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "14.3) Derivadas Parciais"
+              "title": "Cornell_Template 1 1"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -173,18 +174,20 @@
   },
   "active": "bd179f7d021a8d5e",
   "lastOpenFiles": [
-    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
-    "Cálculo III/14.3) Derivadas Parciais.canvas",
-    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Templates/Cornell_Template 1.canvas",
+    "Física III/Cornell/Cornell_Template 1 1.canvas",
+    "Física II/Capítulo 15.canvas",
+    "Física II/Aula do dia 19.05.canvas",
+    "Física II/Aula do dia 05.05.canvas",
+    "Física II/05.05.25.md",
+    "Cálculo III/14.3) Derivadas Parciais.canvas",
+    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
+    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Templates",
     "Física III/Cornell/Aula do dia 23.04.canvas",
     "Física III/Cornell/Aula do dia 05.05.canvas",
     "Física III/Cornell",
     "Física III",
-    "Física II/Cornell_Template 1.canvas",
-    "Física II/Aula do dia 19.05.canvas",
-    "Física II/Aula do dia 05.05.canvas",
     "Física III/Cornell/Cornell_Template 1.canvas",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
