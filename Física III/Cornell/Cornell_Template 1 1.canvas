@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n* Corrente Elétrica\n* Circuito Elétrico","x":0,"y":0,"width":300,"height":300},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\n* movimento de cargas de uma região pra outra\n* corrente elétrica dentro de um circuito fechado","x":320,"y":0,"width":600,"height":300},
-		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150}
-	],
-	"edges":[]
-}

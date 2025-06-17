@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a999e50e6e1890e",
+        "id": "82bd7b57b55f19b0",
         "type": "tabs",
         "children": [
           {
-            "id": "bd179f7d021a8d5e",
+            "id": "337a6f706718bbf3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física III/Cornell/Cornell_Template 1 1.canvas",
+                "file": "Física III/Cornell/Aula do dia 11.06.canvas",
                 "viewState": {
-                  "x": 460,
-                  "y": 235,
-                  "zoom": -0.5
+                  "x": -591.1609891309506,
+                  "y": 167.71463621147646,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Cornell_Template 1 1"
+              "title": "Aula do dia 11.06"
             }
           }
         ]
@@ -172,10 +172,20 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "bd179f7d021a8d5e",
+  "active": "337a6f706718bbf3",
   "lastOpenFiles": [
+    "Pasted image 20250612201437.png",
+    "Pasted image 20250612201344.png",
+    "Pasted image 20250612194811.png",
+    "Pasted image 20250612194731.png",
+    "Física III/Cornell/Capítulo 25.canvas",
+    "Física III/Cornell/Aula do dia 11.06.canvas",
+    "Física III/Cornell/Sem título",
+    "Física III/Cornell/Aula do dia 23.04.canvas",
+    "Sem título.canvas",
+    "Pasted image 20250610110220.png",
+    "Pasted image 20250610105529.png",
     "Templates/Cornell_Template 1.canvas",
-    "Física III/Cornell/Cornell_Template 1 1.canvas",
     "Física II/Capítulo 15.canvas",
     "Física II/Aula do dia 19.05.canvas",
     "Física II/Aula do dia 05.05.canvas",
@@ -184,14 +194,10 @@
     "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Templates",
-    "Física III/Cornell/Aula do dia 23.04.canvas",
-    "Física III/Cornell/Aula do dia 05.05.canvas",
     "Física III/Cornell",
     "Física III",
-    "Física III/Cornell/Cornell_Template 1.canvas",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
-    "Cálculo III/14.1) Funções de Várias Variáveis.canvas",
     "Pasted image 20250510164014.png",
     "Tabela de Revisões.md",
     "Sem título.md",
@@ -210,7 +216,6 @@
     "Cálculo III",
     "Evolução do Conhecimento Cientifico",
     "Física III/Física III.md",
-    "Física II",
     "README.md"
   ]
 }
