@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb18b8e59b9de892",
+        "id": "069086a51ddd81c4",
         "type": "tabs",
         "children": [
           {
-            "id": "589b4852a92a9e51",
+            "id": "2797fbe63b1cc55b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Física III/Cornell/Aula do dia 23.04.canvas",
-                "viewState": {
-                  "x": 460,
-                  "y": 235,
-                  "zoom": -0.39803107397315407
-                }
+                "file": "Pasted image 20250612194731.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Aula do dia 23.04"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250612194731"
             }
           }
         ]
@@ -101,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Física II/Aula do dia 05.05 1.canvas",
+            "file": "Pasted image 20250612194731.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,25 +151,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589b4852a92a9e51",
+  "active": "959f2dc44f7040d1",
   "lastOpenFiles": [
+    "Templates/Cornell_Template 1.canvas",
+    "Imagens",
+    "Iniciação Científica/Sem título.md",
+    "Física III/Cornell/Capítulo 27/Aula do dia 11.06 - (27.1),(27.2),(27.3).canvas",
+    "Física III/Cornell/Capítulo 25/Capítulo 25.canvas",
+    "Física III/Aula do dia 23.04.canvas",
+    "Física III/Cornell/Capítulo 25",
+    "Física III/Cornell/Capítulo 21/Aula do dia 05.05.canvas",
+    "Física III/Cornell/Capítulo 21",
+    "Física III/Cornell/Capítulo 27/Aula do Dia 16.06.25 - (27.4).canvas",
+    "Física III/Cornell/Capítulo 27/Untitled.md",
+    "Física III/Cornell/Capítulo 27",
+    "Untitled/Untitled.md",
+    "Imagens/Pasted image 20250612201437.png",
+    "Imagens/Pasted image 20250510164014.png",
+    "Física II/Aula do Dia 12.06.25 (Capitulo 16).canvas",
+    "Física II/Aula do Dia 16.06.25 (Capítulo 17).canvas",
+    "Física II/05.05.25.md",
+    "Pasted image 20250610105529.png",
     "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Física II/Aula do dia 05.05.canvas",
     "Física II/Aula do dia 19.05.canvas",
-    "Física II/Cornell_Template 1.canvas",
-    "Templates/Cornell_Template 1.canvas",
-    "Física II/05.05.25.md",
     "Física II/Tabela de escalas.md",
-    "Física III/Cornell/Aula do dia 05.05.canvas",
     "Tabela de Revisões.md",
     "Física III/Perguntas e Respostas/05.05.25.md",
-    "Física III/Cornell/Aula do dia 23.04.canvas",
-    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
-    "Cálculo III/14.1) Funções de Várias Variáveis.canvas",
-    "Pasted image 20250510164014.png",
     "Física III/05.05.25.md",
-    "Iniciação Científica/Sem título.md",
-    "Física II/Untitled.canvas",
     "README.md",
     "Física III.md"
   ]
