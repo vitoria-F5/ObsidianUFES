@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física III/Cornell/Aula do dia 11.06.canvas",
+                "file": "Física III/Cornell/Aula do dia 05.05.canvas",
                 "viewState": {
-                  "x": -591.1609891309506,
-                  "y": 167.71463621147646,
-                  "zoom": 0
+                  "x": 460,
+                  "y": 85,
+                  "zoom": -0.3577116978245071
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aula do dia 11.06"
+              "title": "Aula do dia 05.05"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -174,12 +173,12 @@
   },
   "active": "337a6f706718bbf3",
   "lastOpenFiles": [
+    "Física III/Cornell/Aula do dia 11.06.canvas",
     "Pasted image 20250612201437.png",
     "Pasted image 20250612201344.png",
     "Pasted image 20250612194811.png",
     "Pasted image 20250612194731.png",
     "Física III/Cornell/Capítulo 25.canvas",
-    "Física III/Cornell/Aula do dia 11.06.canvas",
     "Física III/Cornell/Sem título",
     "Física III/Cornell/Aula do dia 23.04.canvas",
     "Sem título.canvas",
