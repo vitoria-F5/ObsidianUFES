@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n- a\n- Raio de uma órbita\ncircular em um campo\nmagnético\n* Frequêcia Ciclotrônica","x":0,"y":0,"width":300,"height":300},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\nQuando uma partícula carregada se move em uma região onde só existe campo magnético, o módulo de sua velocidade permanece sempre constante.\n* $R = /frac{mv}{qB}$/\n* f = ","x":320,"y":0,"width":600,"height":300},
+		{"id":"3","type":"text","text":"📌 Resumo:\n(27.4)\n(27.5)","x":0,"y":320,"width":920,"height":150}
+	],
+	"edges":[]
+}
