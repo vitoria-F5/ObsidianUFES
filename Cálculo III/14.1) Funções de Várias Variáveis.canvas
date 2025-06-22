@@ -4,7 +4,7 @@
 		{"id":"2","type":"text","text":"📓 Anotações principais:\n* conjunto de onde saem os valores que a função usa e subconjunto no contradomínio com os valores que a função realmente transforma.\n* As curvas de nível de uma função *f* de duas variáveis são aquelas com equação f (x, y) = k, onde k é uma constante. ","x":320,"y":0,"width":600,"height":300,"color":"2"},
 		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150},
 		{"id":"4dad7ba0b3ff323d","type":"text","text":"ela mostra onde o gráfico de f tem altura k","x":940,"y":0,"width":250,"height":60,"color":"2"},
-		{"id":"d90e502d7c2c6f14","type":"file","file":"Pasted image 20250510164014.png","x":960,"y":99,"width":400,"height":201}
+		{"id":"d90e502d7c2c6f14","type":"file","file":"Imagens/Pasted image 20250510164014.png","x":960,"y":99,"width":400,"height":201}
 	],
 	"edges":[
 		{"id":"fad5d7d9ca77cbf9","fromNode":"4dad7ba0b3ff323d","fromSide":"left","toNode":"2","toSide":"right","fromEnd":"arrow","color":"5"}
