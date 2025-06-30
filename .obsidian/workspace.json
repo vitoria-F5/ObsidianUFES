@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física III/Cornell/Aula do dia 05.05.canvas",
+                "file": "Física III/Cornell/Capítulo 27/****.canvas",
                 "viewState": {
                   "x": 460,
-                  "y": 85,
-                  "zoom": -0.3577116978245071
+                  "y": 235,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aula do dia 05.05"
+              "title": "****"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5004348754883
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -173,6 +173,9 @@
   },
   "active": "337a6f706718bbf3",
   "lastOpenFiles": [
+    "Física III/Cornell/Capítulo 27/Aula do Dia 16.06.25 - (27.4).canvas",
+    "Física III/Cornell/Capítulo 27/****.canvas",
+    "Física III/Cornell/Capítulo 27/Aula do dia 11.06 - (27.1),(27.2),(27.3).canvas",
     "Física III/Cornell/Aula do dia 11.06.canvas",
     "Pasted image 20250612201437.png",
     "Pasted image 20250612201344.png",
@@ -189,9 +192,7 @@
     "Física II/Aula do dia 19.05.canvas",
     "Física II/Aula do dia 05.05.canvas",
     "Física II/05.05.25.md",
-    "Cálculo III/14.3) Derivadas Parciais.canvas",
     "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
-    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Templates",
     "Física III/Cornell",
     "Física III",
