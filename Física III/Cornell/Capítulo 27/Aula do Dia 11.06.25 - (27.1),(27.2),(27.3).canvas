@@ -5,7 +5,10 @@
 		{"id":"36478dbda5fba962","type":"file","file":"Pasted image 20250612194811.png","x":980,"y":-240,"width":360,"height":400},
 		{"id":"d41c5e5a22b2e786","type":"file","file":"Pasted image 20250612201344.png","x":1380,"y":-240,"width":300,"height":991},
 		{"id":"2","type":"text","text":"📓 Anotações principais:\n* processo onde um material que não tinha propriedade magnética, se transforma em magnético;\n* não existem evidências de que existem;\n\t* aaaaaaaaaaaaaaaaaa\n* são descritas como:\n\t* uma carga móvel ou uma corrente elétrica cria um campo magnético em suas vizinhanças;\n\t* o campo magnético exerce uma força sobre qualquer corrente ou carga se movendo no interior;\n* são elas:\n\t* módulo proporcional ao módulo da carga\n\t* módulo da força é proporcional ao módulo ou \"intensidade do campo\".\n\t* depende da velocidade da partícula\n\t* possui sempre direção simultaneamente perpendicular a direção de B e da velocidade v\n* $F = |q|vB = |q|vBsen\\theta$\n* $F = qv X B$","x":80,"y":-240,"width":880,"height":540},
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n\n* imantado\n* polos magnéticos isolados\n\t* porque nunca se separam?\n* interações magnéticas\n\t* ponto 1\n\t* ponto 2\n* 4 características da força magnética\n\t* 1\n\t* 2\n\t* 3\n* ==Módulo da Força Magnética==\n* ==Força Magnética Sobre uma Partícula em Movimento==","x":-340,"y":-240,"width":400,"height":540}
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n\n* imantado\n* polos magnéticos isolados\n\t* porque nunca se separam?\n* interações magnéticas\n\t* ponto 1\n\t* ponto 2\n* 4 características da força magnética\n\t* 1\n\t* 2\n\t* 3\n* ==Módulo da Força Magnética==\n* ==Força Magnética Sobre uma Partícula em Movimento==","x":-340,"y":-240,"width":400,"height":540},
+		{"id":"5cf40a3054d21908","type":"file","file":"Pasted image 20250705154425.png","x":-1124,"y":330,"width":400,"height":280}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ae28d91da6b01ffa","fromNode":"4e9f358a5e1b7d5f","fromSide":"left","toNode":"5cf40a3054d21908","toSide":"left"}
+	]
 }

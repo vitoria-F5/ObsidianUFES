@@ -11,17 +11,14 @@
             "id": "337a6f706718bbf3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Física III/Cornell/Capítulo 27/****.canvas",
-                "viewState": {
-                  "x": 460,
-                  "y": 235,
-                  "zoom": 0
-                }
+                "file": "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "****"
+              "icon": "lucide-file",
+              "title": "Resumo do Livro Evolução das idéias da Física"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5004348754883
+    "width": 216.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -173,24 +171,30 @@
   },
   "active": "337a6f706718bbf3",
   "lastOpenFiles": [
-    "Física III/Cornell/Capítulo 27/Aula do Dia 16.06.25 - (27.4).canvas",
+    "Física III/Cornell/Capítulo 27/Aula do Dia 11.06.25 - (27.1),(27.2),(27.3).canvas",
+    "Física III/Cornell/Capítulo 27/Aula do Dia 16.06.25 - (27.4), (27.5).canvas",
+    "Física III/Testes Conceituais/Capítulo 27.md",
+    "Física III/Cornell/Capítulo 25/Capítulo 25.canvas",
     "Física III/Cornell/Capítulo 27/****.canvas",
-    "Física III/Cornell/Capítulo 27/Aula do dia 11.06 - (27.1),(27.2),(27.3).canvas",
+    "Pasted image 20250705154425.png",
+    "Física III/Testes Conceituais/Capítulo 25.md",
+    "Pasted image 20250704225956.png",
+    "Pasted image 20250704225918.png",
+    "Pasted image 20250704224244.png",
+    "Pasted image 20250704222523.png",
+    "Pasted image 20250704221341.png",
+    "Pasted image 20250704221338.png",
+    "Pasted image 20250704211819.png",
+    "Pasted image 20250702142825.png",
+    "Pasted image 20250702142807.png",
+    "Física III/Testes Conceituais",
     "Física III/Cornell/Aula do dia 11.06.canvas",
-    "Pasted image 20250612201437.png",
-    "Pasted image 20250612201344.png",
-    "Pasted image 20250612194811.png",
-    "Pasted image 20250612194731.png",
     "Física III/Cornell/Capítulo 25.canvas",
     "Física III/Cornell/Sem título",
     "Física III/Cornell/Aula do dia 23.04.canvas",
     "Sem título.canvas",
-    "Pasted image 20250610110220.png",
-    "Pasted image 20250610105529.png",
     "Templates/Cornell_Template 1.canvas",
     "Física II/Capítulo 15.canvas",
-    "Física II/Aula do dia 19.05.canvas",
-    "Física II/Aula do dia 05.05.canvas",
     "Física II/05.05.25.md",
     "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Templates",
@@ -198,7 +202,6 @@
     "Física III",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
-    "Pasted image 20250510164014.png",
     "Tabela de Revisões.md",
     "Sem título.md",
     "Templates/Cornell Note Templates.md",
@@ -214,7 +217,6 @@
     "Cálculo III.md",
     "Física Computacional I",
     "Cálculo III",
-    "Evolução do Conhecimento Cientifico",
     "Física III/Física III.md",
     "README.md"
   ]
