@@ -11,14 +11,17 @@
             "id": "337a6f706718bbf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
-                "mode": "source",
-                "source": false
+                "file": "Física II/Capítulo 18.canvas",
+                "viewState": {
+                  "x": 45.68660193418245,
+                  "y": -419.249760416451,
+                  "zoom": -0.2487841099797894
+                }
               },
-              "icon": "lucide-file",
-              "title": "Resumo do Livro Evolução das idéias da Física"
+              "icon": "lucide-layout-dashboard",
+              "title": "Capítulo 18"
             }
           }
         ]
@@ -171,6 +174,16 @@
   },
   "active": "337a6f706718bbf3",
   "lastOpenFiles": [
+    "Física II/Capítulo 15.canvas",
+    "Física II/Capítulo 18.canvas",
+    "Física II/Aula do dia 05.05.canvas",
+    "Física II/Aula do Dia 16.06.25 (Capítulo 17).canvas",
+    "Tabela de Revisões.md",
+    "Sem título.canvas",
+    "Pasted image 20250704225956.png",
+    "Pasted image 20250704222523.png",
+    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
+    "Física II/Sem título.md",
     "Física III/Cornell/Capítulo 27/Aula do Dia 11.06.25 - (27.1),(27.2),(27.3).canvas",
     "Física III/Cornell/Capítulo 27/Aula do Dia 16.06.25 - (27.4), (27.5).canvas",
     "Física III/Testes Conceituais/Capítulo 27.md",
@@ -178,10 +191,8 @@
     "Física III/Cornell/Capítulo 27/****.canvas",
     "Pasted image 20250705154425.png",
     "Física III/Testes Conceituais/Capítulo 25.md",
-    "Pasted image 20250704225956.png",
     "Pasted image 20250704225918.png",
     "Pasted image 20250704224244.png",
-    "Pasted image 20250704222523.png",
     "Pasted image 20250704221341.png",
     "Pasted image 20250704221338.png",
     "Pasted image 20250704211819.png",
@@ -191,18 +202,12 @@
     "Física III/Cornell/Aula do dia 11.06.canvas",
     "Física III/Cornell/Capítulo 25.canvas",
     "Física III/Cornell/Sem título",
-    "Física III/Cornell/Aula do dia 23.04.canvas",
-    "Sem título.canvas",
-    "Templates/Cornell_Template 1.canvas",
-    "Física II/Capítulo 15.canvas",
     "Física II/05.05.25.md",
-    "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Templates",
     "Física III/Cornell",
     "Física III",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
-    "Tabela de Revisões.md",
     "Sem título.md",
     "Templates/Cornell Note Templates.md",
     "Cornell.css",
