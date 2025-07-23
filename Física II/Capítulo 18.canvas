@@ -6,8 +6,7 @@
 		{"id":"ae1edf9a4502fd7d","type":"text","text":"* quantidade de substância $m_t$\n* número de de moles $n$\n* massa da molécula $m$\n* massa molar $M$\n* número de Avogadro $N_a$","x":-480,"y":-240,"width":311,"height":161},
 		{"id":"781db55408d54d2e","type":"text","text":"-> **Molécula:** conjunto de dois ou mais átomos (iguais ou não), ligados quimicamente formando uma unidade estável. Ex: $H_2O$\n-> **Mol:** unidade da quantidade de matéria no SI. 1 mol contem exatamente $6,022 \\times 10^{23}$ entidades (átomos, moléculas, íons, etc.), esse número é a constante de Avogadro\n-> **Número de Moles  (n):** quantidade de mols em uma substância. $n = \\frac{m}{M}$\n-> **Massa Molar:** massa de 1 mol. Equivale a soma das massas atômicas dos elementos de uma substância.\n-> **Massa Total:** massa de uma quantidade de mols\n","x":-169,"y":-640,"width":489,"height":404,"color":"#832a7c"},
 		{"id":"c937bfb6aa879b38","type":"text","text":"$PV = \\frac{m_t}{M}RT$\n$p = \\frac{PM}{RT}$","x":463,"y":-320,"width":135,"height":84},
-		{"id":"3752b149cbe85f16","type":"text","text":"- **Átomos** formam **moléculas**\n- **Moléculas** são contadas em **mols**\n- **1 mol** = $6,022 \\times 10^{23}$ entidades\n- A **massa molar** é a massa de 1 mol de moléculas/átomos\n- A **massa total** depende de quantos mols você tem","x":-569,"y":-480,"width":400,"height":240},
-		{"id":"14830d2273d4513f","type":"text","text":"","x":-470,"y":329,"width":250,"height":60}
+		{"id":"3752b149cbe85f16","type":"text","text":"- **Átomos** formam **moléculas**\n- **Moléculas** são contadas em **mols**\n- **1 mol** = $6,022 \\times 10^{23}$ entidades\n- A **massa molar** é a massa de 1 mol de moléculas/átomos\n- A **massa total** depende de quantos mols você tem","x":-569,"y":-480,"width":400,"height":240}
 	],
 	"edges":[
 		{"id":"4debed0f6cef9048","fromNode":"1","fromSide":"left","toNode":"ae1edf9a4502fd7d","toSide":"right"},

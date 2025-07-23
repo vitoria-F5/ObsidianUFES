@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2","type":"text","text":"**Equações, Princípios e Observações**\n\n* $\\vec{B} = \\frac{μ_0}{4pi}\\frac{|q|vsen\\phi}{r²}$ (Módulo do Campo Magnético no ponto P)\n* $\\vec{B} = \\frac{μ_0}{4pi}\\frac{|q|\\vec{v}\\times\\hat{r}}{r²}$ (Campo Magnético de uma Carga Puntiforme com Velocidade Constante)\n* *Princípio de Superposição dos Campos Magnéticos: é a soma vetorial de cada campo $\\vec{B}$ individual produzido.*\n* $d\\vec{B} = \\frac{\\mu_0}{4pi}\\frac{Idl\\hat{r}}{r²}$ (Campo Magnético de um Elemento de Corrente Infinitesimal)\n* $\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I \\, d\\vec{l} \\times \\hat{r}}{r^2}$ (Campo Magnético Próximo de um Condutor Longo e Retilíneo que Conduz Corrente)\n* $\\frac{F}{L} = \\frac{\\mu_0II'}{2{\\pi}r}$ (Força Magnética por Comprimento unitário entre dois fios longos e paralelos que conduzem corrente)\n* Existe uma força de atração entre dois fios paralelos que conduzem corrente com mesmo sentido. Se o sentido for contrário, a força é repulsiva.\n","x":320,"y":-120,"width":680,"height":420,"color":"5"},
+		{"id":"3","type":"text","text":"📌 Resumo:\nCapítulo 18","x":-180,"y":320,"width":1180,"height":150},
+		{"id":"1","type":"text","text":"**Conceitos de Resgate**\n * Solenoide: fio enrolando em uma bobina helicoidal\n * Constante Magnética $μ_0$  \n * Para saber o lado norte/sul do imã, basta lembrar de onde as linhas saem e entram. **Sul** **é** denominado como sendo o **negativo** do **ímã** **e** o polo **norte** o positivo.\n ","x":-180,"y":-120,"width":480,"height":420},
+		{"id":"b3f8e324cf710a5d","x":-180,"y":-380,"width":477,"height":252,"type":"file","file":"Pasted image 20250722221539.png"},
+		{"id":"96288f9b01c51aff","type":"file","file":"Pasted image 20250722211832.png","x":320,"y":-528,"width":220,"height":400},
+		{"id":"f841f7051390e5ce","type":"file","file":"Pasted image 20250722215022.png","x":1020,"y":60,"width":435,"height":240}
+	],
+	"edges":[]
+}
