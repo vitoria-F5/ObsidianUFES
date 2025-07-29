@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "069086a51ddd81c4",
+        "id": "3a57cd2cf67b13ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2797fbe63b1cc55b",
+            "id": "b412223c88f63117",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Pasted image 20250612194731.png"
+                "file": "Física II/Capítulo 18.canvas",
+                "viewState": {
+                  "x": 89.95807309640422,
+                  "y": -494.7563247681918,
+                  "zoom": -0.07249053508637332
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250612194731"
+              "icon": "lucide-layout-dashboard",
+              "title": "Capítulo 18"
             }
           }
         ]
@@ -151,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2797fbe63b1cc55b",
+  "active": "b412223c88f63117",
   "lastOpenFiles": [
+    "Física III/Cornell/Capítulo 28.canvas",
+    "Pasted image 20250612194731.png",
     "Templates/Cornell_Template 1.canvas",
     "Imagens",
     "Iniciação Científica/Sem título.md",
