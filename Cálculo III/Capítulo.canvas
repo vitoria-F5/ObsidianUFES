@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\nCurva Suave","x":0,"y":0,"width":300,"height":300,"color":"6"},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\nCampo Vetorial: Seja D um conjunto em R² (em uma região plana). Campo vetorial em R² é uma função F que associa a cada ponto (x,y) em D um vetor bidimensional f(x,y).\n\nIntegral de Linha sobre Campos -> Analogamente ao cálculo de trabalho na Física.\n\nIntegrais de Linha -> Inventadas para resolver problemas relacionados a escoamento de fluídos e magnetismo\n$\\int_C f(x, y) \\, ds = \\int_a^b f(x(t), y(t)) \\sqrt{\\left( \\frac{dx}{dt} \\right)^2 + \\left( \\frac{dy}{dt} \\right)^2} \\, dt$","x":320,"y":-160,"width":600,"height":460,"color":"2"},
-		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150}
-	],
-	"edges":[]
-}

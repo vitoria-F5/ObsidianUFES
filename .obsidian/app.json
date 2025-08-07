@@ -20,5 +20,6 @@
     "editor:paste",
     "editor:copy",
     "editor:insert-mathblock"
-  ]
+  ],
+  "attachmentFolderPath": "Pasted image"
 }
