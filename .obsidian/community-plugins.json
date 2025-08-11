@@ -4,12 +4,15 @@
   "obsidian-text-format",
   "obsidian-importer",
   "obsidian-markmind",
-  "colored-text",
   "fast-text-color",
   "cmenu-plugin",
   "multi-line-formatting",
   "enhanced-symbols-prettifier",
   "obsidian-math-plus",
   "mathtype",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "arrows-in-md",
+  "moredraw",
+  "canvas-card-bg-remover",
+  "painter"
 ]

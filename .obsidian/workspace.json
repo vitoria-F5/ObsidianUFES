@@ -11,10 +11,34 @@
             "id": "99e3403ebdd14d3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "canvas",
+              "state": {
+                "file": "Física III/Cornell/Capítulo 28.canvas",
+                "viewState": {
+                  "x": 887.7094096997736,
+                  "y": 549.2991109468414,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Capítulo 28"
+            }
+          },
+          {
+            "id": "cc6b9e81cc122d2c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Física III/Cornell/Capítulo 29.canvas",
+                "viewState": {
+                  "x": 286.79825702962415,
+                  "y": 1257.1270562749335,
+                  "zoom": -1.2573262114458355
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Capítulo 29"
             }
           }
         ]
@@ -70,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cálculo III/Capítulo 16.canvas",
+                "file": "Física III/Cornell/Capítulo 28.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Capítulo 16"
+              "title": "Backlinks para Capítulo 28"
             }
           },
           {
@@ -158,9 +181,18 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "4b71102f07c0a9b1",
+            "type": "leaf",
+            "state": {
+              "type": "moredraw-iframe-view",
+              "state": {},
+              "icon": "moredraw-icon",
+              "title": "MoreDraw"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,11 +209,26 @@
       "command-palette:Abrir paleta de comando": false,
       "obsidian-importer:Open Importer": false,
       "random-note:Abrir nota aleatória": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "moredraw:MoreDraw": false
     }
   },
   "active": "99e3403ebdd14d3c",
   "lastOpenFiles": [
+    "Física III/Cornell/Capítulo 29.canvas",
+    "Física III/Cornell/Capítulo 28.canvas",
+    "Pasted image/Pasted image 20250810120022.png",
+    "Pasted image/Pasted image 20250808152506.png",
+    "Pasted image/Pasted image 20250808152414.png",
+    "Sem título.md",
+    "Pasted image/Pasted image 20250808084526.png",
+    "Física III/Aula do dia 23.04.canvas",
+    "Física II/05.05.25.md",
+    "Tabela de Revisões.md",
+    "Sem título.canvas",
+    "README.md",
+    "2025-08-07.md",
+    "2025-08-04.md",
     "Cálculo III/Capítulo 16.canvas",
     "Pasted image/Pasted image 20250807120942.png",
     "Pasted image/Pasted image 20250807121009.png",
@@ -189,40 +236,27 @@
     "Pasted image/Pasted image 20250722215022.png",
     "Pasted image/Pasted image 20250807120855.png",
     "Pasted image 20250807120457.png",
-    "2025-08-07.md",
     "Evolução do Conhecimento Cientifico/Resumo do Livro Evolução das idéias da Física.md",
     "Física II/Capítulo 18.canvas",
     "Física II/Capítulo 19.canvas",
-    "Física III/Cornell/Capítulo 28.canvas",
-    "Física III/Cornell/Capítulo 29.canvas",
     "Física III/Cornell/Capítulo 25/Capítulo 25.canvas",
     "Física III/Cornell/Sem título.md",
     "Cálculo III/14.3) Derivadas Parciais.canvas",
     "Cálculo III/Sem título.md",
     "Cálculo III/Aula do dia.md",
     "Cálculo III/14.1) Funções de Várias Variáveis.canvas",
-    "2025-08-04.md",
-    "Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "Cálculo III",
-    "Sem título.canvas",
     "Física III/Testes Conceituais/Capítulo 27.md",
-    "Pasted image/Pasted image 20250610105529.png",
     "Pasted image",
-    "Pasted image 20250722221539.png",
-    "Pasted image/Pasted image 20250722211832.png",
-    "Pasted image/Pasted image 20250722211156.png",
-    "Tabela de Revisões.md",
     "Física II/Sem título.md",
     "Física III/Testes Conceituais/Capítulo 25.md",
     "Física III/Testes Conceituais",
     "Física III/Cornell/Sem título",
-    "Física II/05.05.25.md",
     "Templates",
     "Física III/Cornell",
     "Física III",
     "Física III/Perguntas e Respostas/05.05.25.md",
     "Física III/Perguntas e Respostas",
-    "Sem título.md",
     "Templates/Cornell Note Templates.md",
     "Cornell.css",
     "Física III/Untitled mindmap.md",
@@ -233,7 +267,6 @@
     "Iniciação Científica",
     "Física II/ssssss.md",
     "Cálculo III.md",
-    "Física III/Física III.md",
-    "README.md"
+    "Física III/Física III.md"
   ]
 }

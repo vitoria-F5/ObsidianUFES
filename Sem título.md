@@ -1,0 +1,1 @@
+`{arrow-identifier|color}` to mark the start of an arrow, e.g. `{my-arrow|#1e90ff}`.Ss
