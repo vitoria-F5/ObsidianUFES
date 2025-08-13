@@ -1,16 +1,8 @@
 {
 	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n * Variáveis de Estado\n * Massa total da substância $m_t$\n * Equação do gás ideal\n * \n * Massa molar de uma substância\n * Energia cinética translacional média de um gás\n * Velocidade quadrática média de uma molécula de gás","x":-80,"y":-140,"width":380,"height":440},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\n * ex: pressão, volume, temperatura e a quantidade de substância\n * $m_t = nM$\n * $PV = nRT$\n * $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$\n * $M = N_am$\n * $K_t = \\frac{3}{2}nRT$\n * $v_r = sqr(v²)_m$","x":320,"y":-140,"width":820,"height":440},
-		{"id":"3","type":"text","text":"📌 Resumo:\nCapítulo 18","x":-80,"y":320,"width":1220,"height":150},
-		{"id":"ae1edf9a4502fd7d","type":"text","text":"* quantidade de substância $m_t$\n* número de de moles $n$\n* massa da molécula $m$\n* massa molar $M$\n* número de Avogadro $N_a$","x":-480,"y":-240,"width":311,"height":220},
-		{"id":"781db55408d54d2e","type":"text","text":"-> **Molécula:** conjunto de dois ou mais átomos (iguais ou não), ligados quimicamente formando uma unidade estável. Ex: $H_2O$\n-> **Mol:** unidade da quantidade de matéria no SI. 1 mol contem exatamente $6,022 \\times 10^{23}$ entidades (átomos, moléculas, íons, etc.), esse número é a constante de Avogadro\n-> **Número de Moles  (n):** quantidade de mols em uma substância. $n = \\frac{m}{M}$\n-> **Massa Molar:** massa de 1 mol. Equivale a soma das massas atômicas dos elementos de uma substância.\n-> **Massa Total:** massa de uma quantidade de mols\n","x":-169,"y":-640,"width":489,"height":404,"color":"#832a7c"},
-		{"id":"c937bfb6aa879b38","type":"text","text":"$PV = \\frac{m_t}{M}RT$\n$p = \\frac{PM}{RT}$","x":463,"y":-320,"width":135,"height":84},
-		{"id":"3752b149cbe85f16","type":"text","text":"Como Fazer um Diagrama PV?\n1. Volume no eixo x e Pressão no eixo y;\n2. Escolher um ponto inicial;","x":-569,"y":-480,"width":400,"height":240}
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n ","x":-80,"y":-140,"width":380,"height":440},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n**19.1) Sistemas Termodinâmicos**\n* $Q$ positivo: transferência de calor para dentro do sistema com fluxo de energia correspondente para o interior.\n* $Q$ negativo: transferência de calor para fora do sistema.\n* $W$ positivo: trabalho realizado pelo sistema sobre as vizinhanças. Ex: trabalho realizado por um gás que se expande. A transferência de energia é localizada para fora do sistema.\n* $W$ negativo: trabalho realizado sobre o sistema pela vizinhança. A transferência de energia é localizada para dentro do sistema.\n","x":320,"y":-140,"width":820,"height":440},
+		{"id":"3","type":"text","text":"📌 Resumo:\nCapítulo 19","x":-80,"y":320,"width":1220,"height":150}
 	],
-	"edges":[
-		{"id":"4debed0f6cef9048","fromNode":"1","fromSide":"left","toNode":"ae1edf9a4502fd7d","toSide":"right"},
-		{"id":"4956e5f7336f7983","fromNode":"2","fromSide":"top","toNode":"c937bfb6aa879b38","toSide":"bottom","fromEnd":"arrow"},
-		{"id":"4de2c14593156a4b","fromNode":"1","fromSide":"top","toNode":"781db55408d54d2e","toSide":"bottom"}
-	]
+	"edges":[]
 }

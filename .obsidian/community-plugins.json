@@ -14,5 +14,10 @@
   "arrows-in-md",
   "moredraw",
   "canvas-card-bg-remover",
-  "painter"
+  "painter",
+  "canvas-minimap",
+  "templater-obsidian",
+  "buttons",
+  "obsidian-style-settings",
+  "simple-colored-folder"
 ]
