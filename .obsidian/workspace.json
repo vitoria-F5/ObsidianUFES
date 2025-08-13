@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física II/Capítulo 18.canvas",
+                "file": "Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
                 "viewState": {
                   "x": 523.7321029090886,
                   "y": -0.2897750091553286,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 18"
+              "title": "Capítulo 18 - Propriedades Térmicas da Matéria"
             }
           },
           {
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física II/Capítulo 19.canvas",
+                "file": "Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
                 "viewState": {
-                  "x": 921.4591753435136,
-                  "y": 171.21687207221973,
-                  "zoom": -1
+                  "x": 437.4526823091511,
+                  "y": 65.99806790828694,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 19"
+              "title": "Capítulo 19 - A 1° Lei da Termodinâmica"
             }
           },
           {
@@ -47,19 +47,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Física II/Capítulo 20.canvas",
+                "file": "Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
                 "viewState": {
-                  "x": 351.6246272277838,
-                  "y": 192.97988815307596,
+                  "x": 383.8845931393821,
+                  "y": 171.53171146580166,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 20"
+              "title": "Capítulo 20 - A 2° Lei da Termodinâmica"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5110321044922,
-    "collapsed": true
+    "width": 490.5110321044922
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -223,11 +222,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9501ea0be40dee9",
+  "active": "cc88e0db8d0883e3",
   "lastOpenFiles": [
-    "Física II/Capítulo 18.canvas",
-    "Física II/Capítulo 20.canvas",
-    "Física II/Capítulo 19.canvas",
+    "Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
+    "Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
+    "Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
     "Física II/Tabela de escalas.md",
     "Evolução do Conhecimento Cientifico/A3 - Relatividade Geral e Restrita e Física Moderna.canvas",
     "Evolução do Conhecimento Cientifico/A1 - Resumo do Livro Evolução das idéias da Física.md",
