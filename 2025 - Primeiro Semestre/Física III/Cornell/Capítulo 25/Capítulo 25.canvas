@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n* Corrente Elétrica\n* Circuito Elétrico\n* Corrente Estacionária\n* Força Eletromotriz (fem)\n\t* Fonte Ideal de fem\n* Voltagem no Terminal, fonte de resistência interna\n* Corrente, fonte com resistência interna\n* Voltímetro \n\t* Voltímetro Ideal\n* Amperímetro\n\t* Amperímetro Ideal\n","x":0,"y":-240,"width":300,"height":540},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n* movimento de cargas de uma região pra outra\n* corrente elétrica dentro de um circuito fechado\n* corrente que não varia com o tempo\n* $\\mathcal{E} = V_{ab} = IR$\n* $V_{ab} = \\mathcal{E} - Ir$\n* $\\mathcal{E} - Ir = IR$ ou $I = \\frac{\\mathcal{E}}{R + r}$\n* mede a diferença de potencial onde os pontos onde os terminais estão conectados. Deve ser conectado **em paralelo**\n\t* resistência infinita para não desviar corrente do circuito\n* mede a corrente que passa através dele. É um **pedágio da corrente.** Deve ser conectado **em série**\n\t* resistência 0 para não afetar a corrente medida.","x":320,"y":-240,"width":600,"height":540},
+		{"id":"3","type":"text","text":"📌 Resumo:\n","x":0,"y":320,"width":920,"height":150},
+		{"id":"2bf12635a94f984e","type":"file","file":"Pasted image/Pasted image 20250610105529.png","x":-200,"y":-80,"width":170,"height":400},
+		{"id":"a4ec5f2406ced75f","type":"file","file":"Pasted image/Pasted image 20250610110220.png","x":960,"y":-80,"width":574,"height":400}
+	],
+	"edges":[]
+}

@@ -4,62 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3722150191fd698f",
+        "id": "e92dab8e77e8c064",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c74ae2bce6f1da",
+            "id": "d19f326114a9099b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
-                "viewState": {
-                  "x": 523.7321029090886,
-                  "y": -0.2897750091553286,
-                  "zoom": -1
-                }
+                "file": "2025 - Primeiro Semestre/Cálculo III/Resumo Capítulo 16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 18 - Propriedades Térmicas da Matéria"
-            }
-          },
-          {
-            "id": "d9501ea0be40dee9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
-                "viewState": {
-                  "x": 437.4526823091511,
-                  "y": 65.99806790828694,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 19 - A 1° Lei da Termodinâmica"
-            }
-          },
-          {
-            "id": "cc88e0db8d0883e3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
-                "viewState": {
-                  "x": 383.8845931393821,
-                  "y": 171.53171146580166,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 20 - A 2° Lei da Termodinâmica"
+              "icon": "lucide-file",
+              "title": "Resumo Capítulo 16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,12 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "2c6621dd1abd22b0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5110321044922
+    "width": 490.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -180,27 +153,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física II/Capítulo 19.canvas",
+                "file": "dicionariomatematico.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Capítulo 19"
+              "title": "Índice de dicionariomatematico.md"
             }
           },
           {
-            "id": "28a0efb6f773c1e3",
+            "id": "4562cf1c2729e6a7",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "moredraw-iframe-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "moredraw-icon",
+              "title": "MoreDraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Abrir Quick Switcher": false,
       "graph:Abrir Visualização de diagrama de grafo": false,
       "canvas:Create new canvas": false,
@@ -217,65 +191,67 @@
       "command-palette:Abrir paleta de comando": false,
       "obsidian-importer:Open Importer": false,
       "random-note:Abrir nota aleatória": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "moredraw:MoreDraw": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "templify:Templify Market": false
     }
   },
-  "active": "cc88e0db8d0883e3",
+  "active": "d19f326114a9099b",
   "lastOpenFiles": [
-    "Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
-    "Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
-    "Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
-    "Física II/Tabela de escalas.md",
+    "2025 - Primeiro Semestre/Física Computacional I/Roteiro das Atividades.md",
+    "2025 - Primeiro Semestre/Cálculo III/Resumo Capítulo 16.md",
+    "Pasted image/Pasted image 20250825095727.png",
+    "Cronograma - Cálculo 3.md",
+    "2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3/(Resumo) Ciências Modernas - Relatividade e Física Quântica.md",
+    "2025 - Primeiro Semestre/Cálculo III/Capítulo 16.canvas",
+    "2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3/(Lista) Ciências Modernas - Relatividade e Física Quântica.md",
+    "Tags",
+    "2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3",
+    "Iniciação Científica/Sem título.md",
+    "Sem título",
+    "2025 - Primeiro Semestre",
+    "Pasted image/Pasted image 20250818191022.png",
+    "Pasted image/Pasted image 20250510164014.png",
+    "Pasted image/Pasted image 20250612201437.png",
+    "Pasted image/Pasted image 20250818190809.png",
+    "Pasted image/Pasted image 20250818185753.png",
+    "Pasted image/Pasted image 20250818185137.png",
+    "Pasted image/Pasted image 20250818185115.png",
     "Evolução do Conhecimento Cientifico/A3 - Relatividade Geral e Restrita e Física Moderna.canvas",
-    "Evolução do Conhecimento Cientifico/A1 - Resumo do Livro Evolução das idéias da Física.md",
+    "Como Calcular1. Identificar se a função está em função de $x$ ou $y$ 1. Utilizar a incógnita base como parâmetro2. Calcular $dx$ ou $dy$ 3. Aplicar á equação.md",
+    "Vault.md",
+    "que.md",
+    "[[que.mdque]].md",
+    "00 - Dicionário Matemático.md.md",
+    "Somatório.md.md",
+    "2025 - Primeiro Semestre/Cálculo III/14.3) Derivadas Parciais.canvas",
     "Templates/Cornell_Template 1 1.canvas",
+    "2025 - Primeiro Semestre/Física III/Testes Conceituais/Capítulo 27.md",
+    "2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
+    "2025 - Primeiro Semestre/Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
+    "2025 - Primeiro Semestre/Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
+    "Física II/Tabela de escalas.md",
+    "2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/A1 - Resumo do Livro Evolução das idéias da Física.md",
     "Física Computacional I/sssss.md",
-    "Sem título.md",
     "Física III/Aula do dia 23.04.canvas",
-    "Física III/Cornell/Capítulo 29.canvas",
-    "Física III/Cornell/Capítulo 28.canvas",
+    "2025 - Primeiro Semestre/Física III/Cornell/Capítulo 29.canvas",
+    "2025 - Primeiro Semestre/Física III/Cornell/Capítulo 28.canvas",
     "Pasted image/Pasted image 20250810120022.png",
     "Pasted image/Pasted image 20250808152506.png",
-    "Pasted image/Pasted image 20250808152414.png",
-    "Pasted image/Pasted image 20250808084526.png",
-    "Física II/05.05.25.md",
+    "2025 - Primeiro Semestre/Física II/05.05.25.md",
     "Tabela de Revisões.md",
-    "Sem título.canvas",
     "README.md",
     "2025-08-07.md",
     "2025-08-04.md",
-    "Cálculo III/Capítulo 16.canvas",
-    "Pasted image/Pasted image 20250807120942.png",
-    "Pasted image/Pasted image 20250807121009.png",
-    "Pasted image/Pasted image 20250807120907.png",
-    "Pasted image/Pasted image 20250722215022.png",
-    "Pasted image/Pasted image 20250807120855.png",
-    "Pasted image 20250807120457.png",
     "Física III/Cornell/Sem título.md",
     "Cálculo III/Sem título.md",
     "Cálculo III/Aula do dia.md",
-    "Cálculo III",
-    "Física III/Testes Conceituais/Capítulo 27.md",
+    "2025 - Primeiro Semestre/Cálculo III",
     "Pasted image",
     "Física II/Sem título.md",
-    "Física III/Testes Conceituais/Capítulo 25.md",
-    "Física III/Testes Conceituais",
+    "2025 - Primeiro Semestre/Física III/Testes Conceituais",
     "Física III/Cornell/Sem título",
     "Templates",
-    "Física III/Cornell",
-    "Física III",
-    "Física III/Perguntas e Respostas/05.05.25.md",
-    "Física III/Perguntas e Respostas",
-    "Templates/Cornell Note Templates.md",
-    "Cornell.css",
-    "Física III/Untitled mindmap.md",
-    "Iniciação Científica/Sem título.md",
-    "Física III/osoksksks.md",
-    "Iniciação Científica",
-    "Física II/ssssss.md",
-    "Cálculo III.md",
-    "Física III/Física III.md"
+    "2025 - Primeiro Semestre/Física III/Cornell"
   ]
 }

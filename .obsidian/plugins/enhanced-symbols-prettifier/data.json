@@ -4,7 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-      "count": 9
+      "count": 44
     },
     "<-": {
       "replaced": "<-",
@@ -26,7 +26,8 @@
     "=>": {
       "replaced": "=>",
       "value": "⇒",
-      "group": "Arrows"
+      "group": "Arrows",
+      "count": 2
     },
     "=/=": {
       "replaced": "=/=",
@@ -41,7 +42,8 @@
     "----": {
       "replaced": "----",
       "value": "—",
-      "group": "Miscellaneous"
+      "group": "Miscellaneous",
+      "count": 2
     },
     "(c)": {
       "replaced": "(c)",
@@ -191,7 +193,8 @@
     "...": {
       "replaced": "...",
       "value": "…",
-      "group": "Miscellaneous"
+      "group": "Miscellaneous",
+      "count": 2
     },
     "sqrt": {
       "replaced": "sqrt",

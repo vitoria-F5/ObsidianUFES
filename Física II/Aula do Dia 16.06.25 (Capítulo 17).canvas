@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n- Equilíbrio Térmico\n- Temperatura\n- Calor\n- Termômetros\n- Leis da Termodinâmica\n\t- Lei Zero\n\t- Lei Um\n\t- Lei Dois\n* Coeficiênte de Dilatação Linear \n* Coeficiete de Dilatação Volumétrica\n* Transições de Fase \n* Calo Latente","x":-100,"y":-140,"width":400,"height":440},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\n* Situação a qual a temperatura encontra-se constante;\n* a\n* a\n\t* Quando C está inicialmente em equilíbrio térmico com A e com B, então A e B também estão em equilíbrio térmico entre si.\n\t* a\n\t* a\n* $delta = alfa L_o$","x":320,"y":-140,"width":600,"height":440},
-		{"id":"3","type":"text","text":"📌 Resumo:\n(17.1) a (17.7)","x":-100,"y":320,"width":1020,"height":150},
-		{"id":"9d7a310c38f7f6a1","x":-100,"y":500,"width":1020,"height":160,"type":"text","text":"Dúvidas\n1. Tem como comparar o calor da temperatura do ambiente com o corporal;\n2. Vidro possuí transição de fase?\n3. Porque no livro vidro está como sólido?"}
-	],
-	"edges":[]
-}

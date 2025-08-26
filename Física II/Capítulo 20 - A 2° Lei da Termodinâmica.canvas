@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Conceitos-Chave:\n\n$Q_H [J]$: Calor transferido para o reservatório (positivo)\n$Q_C [J]$: Calor absorvido pelo reservatório (negativo)\n**Potência Mecânica** $P = W·(ciclos/seg)$\nConversão $W$ ↔ $MW$: \n$$\nW = MW \\times 0{,}001\n$$\n$$\nW = \\frac{MW}{1000}\n$$\n","x":-180,"y":-300,"width":480,"height":600},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\n**20.1) Sentido de um Processo Termodinâmico**\nProcessos Reversíveis: É sempre uma idealização relacionada a processos de equilíbrio.\n\tEx.: Bloco de Gelo Derretendo (irreversível), Bloco de gelo a 0°C derretido e colocado numa caixa de metal a 0°C\n\n**20.2) Máquinas Térmicas**\nMáquina Térmica: qualquer dispositivo que converta parcialmente calor em trabalho ou em energia mecânica. \n\n$W = Q_H - Q_C = |Q_H| - |Q_C|$ (Trabalho Mecânico) [J]\n$e = \\frac{W}{Q_H} = 1 + \\frac{Q_C}{Q_H} = 1 - |\\frac{Q_C}{Q_H}|$ (Eficiência Térmica de uma Máquina) [Número Puro]\n\n**20.3) Máquinas de Combustão Interna**\n* Cilo de Otto: ***\n\t\t$e = 1 - \\frac{1}{r^{\\gamma - 1}}$ (Eficiência Térmica no Ciclo de Otto)\n","x":320,"y":-300,"width":680,"height":600},
-		{"id":"3","type":"text","text":"📌 Resumo:\n","x":0,"y":320,"width":920,"height":150}
-	],
-	"edges":[]
-}

@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n- Derivada Parcial","x":0,"y":0,"width":300,"height":300,"color":"6"},
-		{"id":"2","type":"text","text":"📓 Anotações principais:\n* A ideia é derivar uma variável enquanto a outra permanece constante;","x":320,"y":0,"width":600,"height":300,"color":"2"},
-		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150}
-	],
-	"edges":[]
-}

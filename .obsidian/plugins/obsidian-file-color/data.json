@@ -1,0 +1,42 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Ja3hUJq-wqbuyywahwF61",
+      "name": "red",
+      "value": "#c62f2f"
+    },
+    {
+      "id": "q_IbCgy0Y2FPoqUWlE2HK",
+      "name": "pink",
+      "value": "#df8bcd"
+    },
+    {
+      "id": "dlpCCee8FLnntqT-8r_NB",
+      "name": "purple",
+      "value": "#8e08e7"
+    },
+    {
+      "id": "viDVL6jCWpIapde95uZou",
+      "name": "blue",
+      "value": "#9cb2de"
+    },
+    {
+      "id": "hJKYMxywnlcYdOmJ6w44X",
+      "name": "green",
+      "value": "#b6e8b5"
+    },
+    {
+      "id": "2h-du6Rt9bN7ZZuuEDl4Y",
+      "name": "yellow",
+      "value": "#f3e1a0"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "2025 - Primeiro Semestre/Cálculo III",
+      "color": "q_IbCgy0Y2FPoqUWlE2HK"
+    }
+  ]
+}

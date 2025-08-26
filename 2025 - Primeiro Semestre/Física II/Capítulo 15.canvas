@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n* Onda Mecânica\n* Onda Transversal\n* Onda Longitudinal\n* Velocidade da Onda\n* Funções e Dinâmica de Onda\n* Potência de Onda (Duas dimensões)\n* Potência de Onda (Três dimensões)\n* Superposição de Onda\n* Ondas Estacionárias em uma Corda\n* Velocidade da Onda na Corda","x":-80,"y":-140,"width":380,"height":440},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n* Pertubação que se propaga através de um meio. Ex.: jogar pedra na água e onda sonora no ar.\n* Onda vai direita/esquerda e as partículas pra cima/baixo\n* Onda na mesma direção das partículas\n* Diferente da velocidade das partículas e dada por $v = \\lambda f$\n* $y(x,t) = Acos[w(\\frac{x}{v}-t)]$\n* $y(x,t) = Acos2\\pi[(\\frac{x}{\\lambda}- \\frac{t}{T})]$\n* $y(x,t) = Acos(kx-wt)$\n* $P_m = \\frac{1}{2} \\sqrt{\\mu F} \\, \\omega^2 A^2$`\n* $\\frac{I_1}{I_2} = \\frac{r_2²}{r_1²}$\n* $y(x,y) = y_1(x,t) + y_2(x,t)$\n* $v = \\sqrt \\frac{F}{\\mu}$","x":320,"y":-140,"width":820,"height":440},
+		{"id":"3","type":"text","text":"📌 Resumo:\nCapítulo 15 total","x":-80,"y":320,"width":1220,"height":150},
+		{"id":"8c9f44994c08f551","type":"text","text":"No espaço não tem som por conta do vácuo.","x":940,"y":-170,"width":250,"height":60,"color":"6"},
+		{"id":"cb567ed1c32e609c","type":"text","text":"Ondas transportam energia, mas não matéria","x":940,"y":-20,"width":280,"height":100,"color":"6"},
+		{"id":"9654784c7439c8f0","type":"text","text":"$k = 2\\pi/\\lambda$\n$w = 2\\pi f = vk$","x":620,"y":100,"width":140,"height":60,"color":"6"}
+	],
+	"edges":[]
+}

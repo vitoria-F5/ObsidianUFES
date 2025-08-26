@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n- ==Sobre o Movimento==\n- Raio de uma órbita\ncircular em um campo\nmagnético\n* Frequência Ciclotrônica","x":0,"y":0,"width":300,"height":300},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n* ==Quando uma partícula carregada se move em uma região onde só existe campo magnético, o módulo de sua velocidade permanece sempre constante.==\n* $R = \\frac{mv}{|q|B}$\n* Número de rotações por unidade de tempo $f = w/2\\pi$","x":320,"y":0,"width":600,"height":300},
+		{"id":"3","type":"text","text":"📌 Resumo:\n(27.4) Movimento de Partículas Carregadas em um Campo Magnético\n(27.5) Aplicações do Movimento de Partículas Carregas","x":0,"y":320,"width":920,"height":150}
+	],
+	"edges":[]
+}

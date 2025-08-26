@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"🧠 Palavras-chave / Perguntas:\n ","x":-80,"y":-140,"width":380,"height":440},
+		{"id":"2","type":"text","text":"📓 Anotações principais:\n**19.1) Sistemas Termodinâmicos**\n* $Q$ positivo: transferência de calor para dentro do sistema com fluxo de energia correspondente para o interior.\n* $Q$ negativo: transferência de calor para fora do sistema.\n* $W$ positivo: trabalho realizado pelo sistema sobre as vizinhanças. Ex: trabalho realizado por um gás que se expande. A transferência de energia é localizada para fora do sistema.\n* $W$ negativo: trabalho realizado sobre o sistema pela vizinhança. A transferência de energia é localizada para dentro do sistema.\n","x":320,"y":-140,"width":820,"height":440},
+		{"id":"3","type":"text","text":"📌 Resumo:\nCapítulo 19","x":-80,"y":320,"width":1220,"height":150}
+	],
+	"edges":[]
+}
