@@ -3,7 +3,7 @@ Atividade 1
 
 2. Criei listas pra armazenar os valores de tempo e as posições
 
-3. Depois um loop que executa 300 vezes, no caso são 3 segundos que vão aumentando de 0,01 segundos e são armazenados na lista
+3. Depois um loop que executa 300 vezes, no caso são 3 segundos que vão aumentando de 0,01 segundos e são armazenados na lista. Esse **incremento de 0,01 segundos** foi pra garantir uma maior suavidade.
 	1. Para cada instante de tempo, eu calculei as posições usando essa fórmula do MHS e armazenando nas listas
 
 4. Configurei os três sistemas diferentes: primeiro, massa de 2kg com mola de 200N/m; segundo, massa de 3kg com mesma mola de 200N/m; e terceiro, massa de 5kg com mola de 500N/m com um angulo phi de π/2 radianos diferente dos outros pra evitar sobreposição;
@@ -13,7 +13,7 @@ Atividade 1
 ------
 
 Atividade 2
-1. **Importei uma biblioteca** pra criar gráficos e visualizar os resultados.  
+1. **Importei uma biblioteca** pro gráfico
 
 2. Pedi quatro valores de aceleração (em m/s²) para simular diferentes cenários de movimento acelerado.  
 

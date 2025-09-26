@@ -38,7 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//2025 - Primeiro Semestre/2025 - Primeiro Semestre/Cálculo III",
+    "//Sociedade do Foco",
+    "//Sociedade do Foco/Sociedade do Foco/Sem título 2",
+    "//Sociedade do Foco/Sociedade do Foco/Sem título 1",
+    "//Sociedade do Foco/Sociedade do Foco/Aprendizagem de Alta Performance"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

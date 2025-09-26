@@ -199,3 +199,16 @@ Cálculo do Rotacional
 **16.9) Teorema do Divergente**
 Seja $E$ uma região sólida simples e seja $S$ a superfície fronteira de $E$, orientada positivamente (para fora). Seja $F$ um campo vetorial cujas funções componentes tenham derivadas parciais contínuas em uma região aberta que contenha $E$. Então
 $$\int \int _{S} F·ds = \int \int \int _{E} div \space F \space dV$$
+Questão B
+1. Aplicar o teorema do divergente
+2. A região $V$ é o cilindro elíptico entre $z = 0$ e $z=5$ com base $B = (x,y):x²+ \frac{y²}{4}\leq_ {1}$ 
+3. Transformação Linear em B (u,v);
+4. Determinante Jacobiano;
+5. Substituir na integração original
+6. Passar para coordenadas polares  
+
+Questão 3:
+1. Normal unitária da esfera $||r|| = R$, a normal externa é $n = \frac{(x,y,z)}{R²}$
+2. O valor de F na esfera: $F = \frac{(x,y,z)}{R²}$
+3. Produto escalar constante: $F · n$
+4. Integrar $\int \int FndS$ → dS = $4\pi R²$

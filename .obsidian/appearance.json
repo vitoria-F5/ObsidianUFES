@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
   "accentColor": "#f55cc4",
-  "showRibbon": false,
+  "showRibbon": true,
   "baseFontSize": 18,
   "nativeMenus": false
 }
