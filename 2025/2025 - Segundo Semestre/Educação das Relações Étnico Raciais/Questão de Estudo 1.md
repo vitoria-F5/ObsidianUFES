@@ -1,0 +1,7 @@
+Assim como Lineu propôs uma relação como o próprio autor afirma "hierarquizante, construindo uma escala de valores nitidamente tendenciosa", outros estudiosos habituados com o método científico: observar, formular hipóteses, testar e analisar resultados, não só como fonte de prazer, mas como material de trabalho e algo que muitas veses se funde ao raciocínio do dia a dia, também cometem tal erro.
+
+É como uma ironia de péssimo gosto. Você se limita a uma vida de regras muito bem delimitadas, o que te faz sentir-se racionalmente superior, e acaba por cometer erros lógicos em um nível iniciante em uma outra área.
+
+Ao classificar seres humanos, LIneu saiu da descrição biológica objetiva e passou a misturar ciência com preconceito. Seus grupos de Homo sapiens não traziam apenas traços físicos, mas também juízos morais e culturais, SUBJETIVOS, não testáveis e impossíveis de comprovar.
+
+Arrisco dizer que uma das causas seja a separação dos campos de estudo. Você, sendo um biólogo, matemático, físico, historiador, etc., pode acabar por manter um campo de visão estritamente focado na própria área, levando erroneamente a aplicar as "regras do bom juízo" apenas aos próprios domínios. Esquecendo que as divisões foram feitas para um estudo mais efetivo, mas as regras se aplicam a tudo.

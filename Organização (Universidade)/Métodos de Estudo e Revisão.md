@@ -9,12 +9,12 @@ Física IV
 Observações
 * sentar sempre na frente;
 * tirar foto de todas as aulas;
-* separar dúvidas pra tirar na aula
+* separar dúvidas pra tirar na aula.
 
 ---
 Cálculo IV
 1. resumo com palavras chaves na aula
-2. passar resumo da aula a limpo pro Obsidian + complementar com o livro;
+2. passar resumo da aula a limpo pro Obsidian + complementar com o livro + vídeo aula;
 3. exemplos principais do livro;
 4. listas gerais pra cada prova + caderno de erros;
 5. listas de tópicos que sentir dificuldade;
