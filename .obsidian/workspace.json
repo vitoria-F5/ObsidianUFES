@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
+                "file": "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capítulo 1 - Introdução"
+              "title": "[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem]"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "01fbbf6eadfc18aa",
+            "id": "5062c5b99aa0d942",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,14 +199,20 @@
   },
   "active": "3d5ed95b21100381",
   "lastOpenFiles": [
+    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
+    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 4 - Espaço Vetorial.md",
+    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
+    "Sociedade do Foco/Aprendizagem de Alta Performance/Como Criar um Cronograma de Estudos.md",
     "Organização (Universidade)/Métodos de Estudo e Revisão.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 Conceitos Fundamentais.md",
+    "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 21/Aula do dia 05.05.canvas",
+    "Checklist GVBus.md",
+    "Sociedade do Foco/Sociedade do Diracstão/Modelo Padrão.md",
     "Organização (Universidade)/Cronograma de Estudos (Atividade Sociedade do Foco).md",
     "Vault.md",
     "2025/2025 - Primeiro Semestre/Física Computacional I/Roteiro das Atividades.md",
-    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
-    "Sociedade do Foco/Aprendizagem de Alta Performance/Como Criar um Cronograma de Estudos.md",
     "2025/2025 - Segundo Semestre/Educação das Relações Étnico Raciais/Questão de Estudo 1.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
     "Joves Parceitos do Diracstão/Joves Parceitos do Diracstão.md",
     "Cronograma - Cálculo 3.md",
     "Joves Parceitos do Diracstão/Monopolos Magnéticos.md",
@@ -215,9 +222,7 @@
     "Sociedade do Foco/Organização Financeira/Sem título.md",
     "Tags",
     "Sociedade do Foco/Aprendizagem de Alta Performance/Estratégias para lidar com ansiedade nos estudos.md",
-    "Checklist GVBus.md",
     "LabMaker na Cidade Acessível.md",
-    "Sociedade do Foco/Sociedade do Diracstão/Modelo Padrão.md",
     "2025",
     "2025/2025 - Segundo Semestre/Educação das Relações Étnico Raciais",
     "2025/2025 - Segundo Semestre/Práticas de Física III",
@@ -237,9 +242,6 @@
     "2025/2025 - Primeiro Semestre/Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.1) Funções de Várias Variáveis.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/Cálculo III.md",
-    "2025 - Primeiro Semestre/Cálculo III/Untitled mindmap.md",
-    "2025/2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/A1 - Resumo do Livro Evolução das idéias da Física.md",
-    "2025/2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3/(Resumo) Ciências Modernas - Relatividade e Física Quântica.md",
     "Pasted image/Pasted image 20250825095727.png",
     "Pasted image/Pasted image 20250818191022.png",
     "Pasted image/Pasted image 20250510164014.png",
@@ -252,7 +254,6 @@
     "Templates/Cornell_Template 1 1.canvas",
     "2025/2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
     "2025/2025 - Primeiro Semestre/Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
-    "2025/2025 - Primeiro Semestre/Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas",
-    "Física III/Aula do dia 23.04.canvas"
+    "2025/2025 - Primeiro Semestre/Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas"
   ]
 }

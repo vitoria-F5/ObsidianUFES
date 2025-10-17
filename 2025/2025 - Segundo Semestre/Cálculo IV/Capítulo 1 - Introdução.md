@@ -1,10 +1,10 @@
 **1.1 Alguns Modelos Matemáticos Básicos; Campos de Direção**
 
-* Definições
+**Definições:**
 	**Equação Diferencial:** equações que contém derivadas. A incógnita de uma equação diferencial é uma função
 	**Modelo Matemático:** equação diferencial que descreve certo processo físico
 
-(?) A solução real do problema aproximado, serve como solução aproximada do problema real?
+<span style="background:rgba(74, 82, 199, 0.2)">(?) A solução real do problema aproximado, serve como solução aproximada do problema real?</span>
 
 * Passos Básicos de Modelagem Matemática:
 1. Identificar a variável independente e a variável dependente, atribuindo letras para representá-las;
@@ -13,15 +13,14 @@
 4. Expressar o princípio/lei do passo 3 em função das variáveis do passo 1;
 5. Certificar-se que as parcelas da equação estão nas mesmas unidades;
 
-* Teorema de Existência e Unicidade
-
+* Teorema de Existência e Unicidade:
 A equação 
 $$y'(x)=F(x;y)$$
 sempre tem soluções se $F(x;y)$ tiver derivadas parciais contínuas.
 
 Dada a condição inicial $(x_{0};y_{0})$ existe uma única solução $y = y(x)$ de $y'(x) = F(x,y)$ que satisfaz $y(x_{0})=y_{0}$ 
 
-* Variáveis Separadas 
+* Variáveis Separáveis 
 Se for possível escrever a equação na forma 
 $$P(x)dx = Q(y)dy$$
 dizemos que $\frac{dy}{dx}(x) = F(x;y)$  é uma equação de variáveis separáveis. 
@@ -29,7 +28,21 @@ dizemos que $\frac{dy}{dx}(x) = F(x;y)$  é uma equação de variáveis separáv
 neste caso, as soluções são obtidas de $$\int P(x)dx = \int Q(x)dy + C$$
 onde $C$ é uma constante real arbitrária.
 
+<span style="background:rgba(255, 183, 139, 0.55)">Toda EDO de variáveis separáveis é exata!</span>
+
 - [ ] Fazer exemplos de variáveis separadas no papel.
+
+* Quando vamos resolver uma EDO, primeiro verificamos uma das 3 opções:
+1. Ela é linear;
+2. É de variáveis separáveis;
+3. É exata (geralmente um polinômio, seno ou exponencial).
+
+* Foma da EDO exata: $$M(x,y) + N(x,y)y' = 0$$
+Dizemos que ela é exata se existir uma função diferencial $\psi: u \to IR$ tal que:
+$\psi_{x}(x,y) = M(x,y)$ para todo $(x,y)$ $\in$ $U$ 
+$\psi_{y}(x,y) = N(x,y)$
+
+- [ ] Fazer exemplos de EDO exata no papel.
 
 [(Cálculo IV - Aula 12 - Equações diferenciais ordinárias)](https://youtu.be/mH6GQOtC-KE?si=yItV5juZ6N2R9ZWK)
 
@@ -52,7 +65,6 @@ Exemplo: Equação de Onda
 **Ordem:** a ordem da derivada de maior ordem que aparece na equação.
 
 **Linearidade:** 
-
 * A forma geral da equação diferencial linear:
 $$
 a_n(x) \frac{d^n y}{dx^n} + a_{n-1}(x) \frac{d^{n-1} y}{dx^{n-1}} + \cdots + a_1(x) \frac{dy}{dx} + a_0(x) y = g(x)
@@ -84,11 +96,13 @@ $y'' + \sin(y) = 0 \quad \text{(função não-linear de } y \text{)}$
 ---
 Capítulo 2 - Equações Diferenciais de Primeira Ordem
 
-* Definições
-**Equação Diferencial Ordinária de ordem 1:** $y'(x)+p(x)y = q(x)$
-
-Para resolver esse tipo de equação diferencial, multiplicamos ambos os lados pelo *fator integrante* $\mu(x) = e^{\int p(x)  dx}$ e integramos ambos os lados
+**2.1 Equações Lineares; Método dos Fatores Integrantes**
+* Definições:
+	**Solução da Equação Diferencial Ordinária de ordem 1:**
+	1. Colocar na Forma Padrão da Equação Linear de Primeira Ordem: $$y'(t)+p(t)y = q(t)$$onde $p(t)$ e $g(t)$ são funções dadas da variável dependente t.
+	
+	2. Calculamos o *fator integrante* $\mu(t) = e^{\int p(t)  dt}$ 
+	3. Solução será dada por: 
+$$y(t) = \frac{1}{\mu(t)\left( \int \mu(t)·g(t)dt + c \right)}$$
 
 - [ ] Exemplo 1 do 9
-
-2.1 Equações Lineares; Método dos Fatores Integrantes
