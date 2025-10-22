@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
+                "file": "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem]"
+              "title": "Capítulo 3 - A Primeira Lei da Termodinâmica"
             }
           }
         ]
@@ -54,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5062c5b99aa0d942",
+            "id": "7b8e5bd728204d8f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,13 +84,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5110321044922,
-    "collapsed": true
+    "width": 490.5110321044922
   },
   "right": {
     "id": "f6bf92bf6cb8f605",
@@ -199,13 +197,19 @@
   },
   "active": "3d5ed95b21100381",
   "lastOpenFiles": [
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 - Conceitos Fundamentais.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
     "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
+    "Produto Vetorial.md",
+    "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 29.canvas",
+    "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 28.canvas",
+    "2025/2025 - Segundo Semestre/Física IV/Capítulo 33 - Ondas Eletromagnéticas.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 4 - Espaço Vetorial.md",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
     "Sociedade do Foco/Aprendizagem de Alta Performance/Como Criar um Cronograma de Estudos.md",
     "Organização (Universidade)/Métodos de Estudo e Revisão.md",
-    "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 Conceitos Fundamentais.md",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 21/Aula do dia 05.05.canvas",
     "Checklist GVBus.md",
     "Sociedade do Foco/Sociedade do Diracstão/Modelo Padrão.md",
@@ -217,7 +221,6 @@
     "Cronograma - Cálculo 3.md",
     "Joves Parceitos do Diracstão/Monopolos Magnéticos.md",
     "Joves Parceitos do Diracstão",
-    "Sem título.md",
     "Sem título 1.md",
     "Sociedade do Foco/Organização Financeira/Sem título.md",
     "Tags",
@@ -235,13 +238,10 @@
     "Pasted image/Pasted image 20250913190749.png",
     "Pasted image/Pasted image 20250913190247.png",
     "2025/2025 - Primeiro Semestre/Cálculo III/Capítulo 16.md",
-    "2025/2025 - Primeiro Semestre/Cálculo III/Capítulo 15.md",
-    "2025/2025 - Primeiro Semestre/Cálculo III/Capítulo 14.md",
     "2025 - Primeiro Semestre/Cálculo III/Capítulo 16.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.3) Derivadas Parciais.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.1) Funções de Várias Variáveis.canvas",
-    "2025/2025 - Primeiro Semestre/Cálculo III/Cálculo III.md",
     "Pasted image/Pasted image 20250825095727.png",
     "Pasted image/Pasted image 20250818191022.png",
     "Pasted image/Pasted image 20250510164014.png",
@@ -252,8 +252,6 @@
     "Pasted image/Pasted image 20250818185115.png",
     "Evolução do Conhecimento Cientifico/A3 - Relatividade Geral e Restrita e Física Moderna.canvas",
     "Templates/Cornell_Template 1 1.canvas",
-    "2025/2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas",
-    "2025/2025 - Primeiro Semestre/Física II/Capítulo 18 - Propriedades Térmicas da Matéria.canvas",
-    "2025/2025 - Primeiro Semestre/Física II/Capítulo 19 - A 1° Lei da Termodinâmica.canvas"
+    "2025/2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas"
   ]
 }
