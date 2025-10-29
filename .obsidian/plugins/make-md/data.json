@@ -48,12 +48,11 @@
     "//2025/2025/2025 - Primeiro Semestre/2025/2025 - Primeiro Semestre/Física III/2025/2025 - Primeiro Semestre/Física III/Cornell",
     "//2025/2025/2025 - Primeiro Semestre/2025/2025 - Primeiro Semestre/Física III/2025/2025 - Primeiro Semestre/Física III/Cornell/2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 21",
     "//2025",
-    "//Organização (Universidade)",
     "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Termodinâmica",
     "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Cálculo IV",
     "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Educação das Relações Étnico Raciais",
-    "//Sociedade do Foco",
-    "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Álgebra Linear"
+    "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Álgebra Linear",
+    "//2025/2025/2025 - Segundo Semestre/2025/2025 - Segundo Semestre/Física IV"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -81,7 +80,7 @@
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
-  "readableLineWidth": true,
+  "readableLineWidth": false,
   "autoAddContextsToSubtags": true,
   "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,

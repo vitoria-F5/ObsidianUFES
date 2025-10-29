@@ -4,7 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-      "count": 54
+      "count": 61
     },
     "<-": {
       "replaced": "<-",
@@ -43,7 +43,7 @@
       "replaced": "----",
       "value": "—",
       "group": "Miscellaneous",
-      "count": 2
+      "count": 3
     },
     "(c)": {
       "replaced": "(c)",
@@ -153,7 +153,8 @@
     "!=": {
       "replaced": "!=",
       "value": "≠",
-      "group": "Mathematical Operators"
+      "group": "Mathematical Operators",
+      "count": 1
     },
     "=<": {
       "replaced": "=<",
@@ -194,7 +195,7 @@
       "replaced": "...",
       "value": "…",
       "group": "Miscellaneous",
-      "count": 2
+      "count": 4
     },
     "sqrt": {
       "replaced": "sqrt",
