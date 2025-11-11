@@ -19,6 +19,17 @@
 	i) Para quaisquer $u,v \in W$ tivermos $u + v \in W$;
 	ii) Para quaisquer $a \in R, u \in W$ tivermos $au \in W$.
 
+**4.4 Combinação Linear**
+* **Definição:** Sejam $V$ um espaço vetorial real (ou complexo), $v_{1},v_{2},\dots,v_{n}$ $\in$ $V$ e $a_{1},\dots,a_{n}$ números reais (ou complexos). Então, o vetor 
+  $$v = a_{1}v_{1} + a_{2}v_{2} + \dots + a_{n}v_{n}$$ é um elemento de $V$ que  é a combinação linear de $v_{1},\dots,v_{n}$.
+
+
 **4.5 Dependência e Independência Linear**
 * **Linearmente Independente (LI):** o conjunto {${v_{1},v_{2},v_{2},\dots,v_{n}}$} é LI se a equação $a_{1}v_{1} +a_{2}v_{2} + \dots +a_{n}v_{n} = 0$ implica que $a_{1} = a_{2} = \dots = a_{n} = 0$
 * **Linearmente Dependente (LD):** se existir algum $a_{i} \neq 0$.
+* **Significado Real de LI e LD:** ***
+
+**4.6 Base de um Espaço Vetorial:**
+* **Definição:** Um conjunto {${{v_{1},\dots, v_{n}}}$} de vetores de $V$ será uma base de $V$ se:
+	1. {$v_{1},\dots,v_{n}$} é $LI$;
+	2. {$v_{1},\dots,v_{n}$} = $v$.

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8601baaa11f0425",
+        "id": "9b2c455c3fbfc31c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4b61b9c69327ac",
+            "id": "a90d1c32940435eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
+                "file": "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capítulo 1 - Matrizes"
+              "title": "Capítulo 2 - Equações de Estado"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corpus",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "40cb9e36f88bf85f",
+            "id": "2e7d79f20d8b32b4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,22 +196,33 @@
       "templify:Templify Market": false
     }
   },
-  "active": "4e4b61b9c69327ac",
+  "active": "a90d1c32940435eb",
   "lastOpenFiles": [
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 - Conceitos Fundamentais.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Termodinâmica.md",
+    "Joves Parceitos do Diracstão/Untitled.md",
+    "Pasted image/Pasted image 20251108181526.png",
+    "Joves Parceitos do Diracstão/Joves Parceitos do Diracstão.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
+    "2025/2025 - Segundo Semestre/Física IV/Capítulo 35 - Interferência.md",
+    "Pasted image/Pasted image 20251106094141.png",
+    "Pasted image/Pasted image 20251106094106.png",
+    "Vault.md",
+    "Pasted image/Pasted image 20251106092900.png",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 4 - Espaço Vetorial.md",
+    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 6.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
+    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 3 - Determinante e Matriz Inversa.md",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 2 - Sistema de Equações Lineares.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
     "Pasted image/Pasted image 20251028103607.png",
     "Pasted image/Pasted image 20251028103531.png",
     "2025/2025 - Segundo Semestre/Álgebra Linear/Álgebra Linear.md",
     "2025/2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3/(Lista) Ciências Modernas - Relatividade e Física Quântica.md",
     "Produto Vetorial.md",
     "2025/2025 - Segundo Semestre/Física IV/Capítulo 33 - Ondas Eletromagnéticas.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 - Conceitos Fundamentais.md",
     "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
-    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 29.canvas",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 28.canvas",
     "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
@@ -220,14 +232,7 @@
     "Checklist GVBus.md",
     "Sociedade do Foco/Sociedade do Diracstão/Modelo Padrão.md",
     "Organização (Universidade)/Cronograma de Estudos (Atividade Sociedade do Foco).md",
-    "Vault.md",
-    "2025/2025 - Primeiro Semestre/Física Computacional I/Roteiro das Atividades.md",
-    "2025/2025 - Segundo Semestre/Educação das Relações Étnico Raciais/Questão de Estudo 1.md",
-    "Joves Parceitos do Diracstão/Joves Parceitos do Diracstão.md",
-    "Cronograma - Cálculo 3.md",
-    "Joves Parceitos do Diracstão/Monopolos Magnéticos.md",
     "Joves Parceitos do Diracstão",
-    "Sem título 1.md",
     "Tags",
     "2025",
     "2025/2025 - Segundo Semestre/Educação das Relações Étnico Raciais",
@@ -245,10 +250,6 @@
     "2025/2025 - Primeiro Semestre/Cálculo III/14.1) Funções de Várias Variáveis.canvas",
     "Pasted image/Pasted image 20250825095727.png",
     "Pasted image/Pasted image 20250818191022.png",
-    "Pasted image/Pasted image 20250510164014.png",
-    "Pasted image/Pasted image 20250612201437.png",
-    "Pasted image/Pasted image 20250818190809.png",
-    "Pasted image/Pasted image 20250818185753.png",
     "Evolução do Conhecimento Cientifico/A3 - Relatividade Geral e Restrita e Física Moderna.canvas",
     "Templates/Cornell_Template 1 1.canvas",
     "2025/2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas"
