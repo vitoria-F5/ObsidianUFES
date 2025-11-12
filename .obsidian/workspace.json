@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b2c455c3fbfc31c",
+        "id": "0413f7ce4549feed",
         "type": "tabs",
         "children": [
           {
-            "id": "a90d1c32940435eb",
+            "id": "94ba65005c462c38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Capítulo 2 - Equações de Estado"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "2e7d79f20d8b32b4",
+            "id": "657c7c7a4685ecf0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,15 +192,15 @@
       "templify:Templify Market": false
     }
   },
-  "active": "a90d1c32940435eb",
+  "active": "94ba65005c462c38",
   "lastOpenFiles": [
     "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 - Conceitos Fundamentais.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
     "2025/2025 - Segundo Semestre/Termodinâmica/Termodinâmica.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
+    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
     "Joves Parceitos do Diracstão/Untitled.md",
     "Pasted image/Pasted image 20251108181526.png",
     "Joves Parceitos do Diracstão/Joves Parceitos do Diracstão.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
     "2025/2025 - Segundo Semestre/Física IV/Capítulo 35 - Interferência.md",
     "Pasted image/Pasted image 20251106094141.png",
     "Pasted image/Pasted image 20251106094106.png",
