@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"Palavras-chave / Perguntas:\n* **Princípio de Huygens**\n* **Comprovação**","x":-180,"y":-240,"width":480,"height":540},
+		{"id":"2","type":"text","text":"Anotações principais:\n* Todos os pontos de uma frente de onda comportam-se como fontes pontuais de ondas secundárias. Depois de um intervalo de tempo $t$ a nova posição da frente de onda é dada por uma superfície tangente a essas ondas secundárias. Cada ponto sobre a frente de onda, dá origem a uma onda secundária.\n* Através do Experimento de Young\n\n","x":320,"y":-240,"width":600,"height":540},
+		{"id":"3","type":"text","text":"📌 Resumo:\nEntropia representa a tendência natural dos sistemas de evoluírem para estados de maior desordem. É uma ferramenta crucial na física para entender a irreversibilidade dos processos.","x":0,"y":320,"width":920,"height":150},
+		{"id":"4c18cb891b67fe11","type":"text","text":"![[Pasted image 20251106092900.png|center|205]]","x":920,"y":-240,"width":240,"height":300},
+		{"id":"c479a3c7685b6694","type":"file","file":"Pasted image/Pasted image 20251113154246.png","x":920,"y":60,"width":332,"height":300}
+	],
+	"edges":[]
+}

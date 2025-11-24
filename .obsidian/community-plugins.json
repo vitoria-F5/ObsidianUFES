@@ -17,7 +17,6 @@
   "editing-toolbar",
   "mathlinks",
   "mousewheel-image-zoom",
-  "oz-image-plugin",
   "templify",
   "obsidian-style-settings",
   "obsidian-icon-folder",
@@ -25,6 +24,5 @@
   "make-md",
   "obsidian-outliner",
   "obsidian-annotator",
-  "image-tools",
-  "obsidian-image-caption"
+  "obsidian-trash-explorer"
 ]

@@ -30,5 +30,6 @@
     "downscalePercent": 100
   },
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "userIgnoreFilters": null
 }

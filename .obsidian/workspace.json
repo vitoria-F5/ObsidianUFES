@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0413f7ce4549feed",
+        "id": "919a58d4748ea83b",
         "type": "tabs",
         "children": [
           {
-            "id": "94ba65005c462c38",
+            "id": "232f44097385d280",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025/2025 - Segundo Semestre/Calculus IV/Capítulo 1 - Introdução.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Capítulo 1 - Introdução"
+            }
+          },
+          {
+            "id": "e85b72b628718f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/2025 - Segundo Semestre/Calculus IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 2 - Equações Diferenciais de Primeira Ordem"
+            }
+          },
+          {
+            "id": "ca02bfa7202173e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/2025 - Segundo Semestre/Calculus IV/Conteúdos Extra para P1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conteúdos Extra para P1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de ficheiros"
             }
           },
           {
@@ -57,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -71,7 +104,7 @@
             }
           },
           {
-            "id": "657c7c7a4685ecf0",
+            "id": "e41fafd0c0244645",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,8 +113,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dicionariomatematico.md.md",
+                "file": "2025/2025 - Segundo Semestre/Calculus IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de dicionariomatematico.md"
+              "title": "Índice de Capítulo 2 - Equações Diferenciais de Primeira Ordem"
             }
           },
           {
@@ -169,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,12 +210,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "random-note:Abrir nota aleatória": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "obsidian-importer:Open Importer": false,
@@ -192,42 +225,49 @@
       "templify:Templify Market": false
     }
   },
-  "active": "94ba65005c462c38",
+  "active": "ca02bfa7202173e9",
   "lastOpenFiles": [
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 1 - Conceitos Fundamentais.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Termodinâmica.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 3 - A Primeira Lei da Termodinâmica.md",
-    "2025/2025 - Segundo Semestre/Termodinâmica/Capítulo 2 - Equações de Estado.md",
-    "Joves Parceitos do Diracstão/Untitled.md",
+    "2025/2025 - Segundo Semestre/Calculus IV/Capítulo 1 - Introdução.md",
+    "2025/2025 - Segundo Semestre/Calculus IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
+    "2025/2025 - Segundo Semestre/Calculus IV/Conteúdos Extra para P1.md",
+    "Joves Parceitos do Diracstão/Jovens Parceiros do Diracstão - 22 de Novembro (2025).md",
+    "Sem título.md",
+    "2025/2025 - Segundo Semestre/Calculus IV/Calculus IV.md",
+    "2025/2025 - Segundo Semestre/Calculus IV",
+    "Vault.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 4.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 17.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 16.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 15.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 14.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 13.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 12.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 11.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 10.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 9.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 8.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 7.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 6.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 5.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 3.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 2.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV 1.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Cálculo IV.md",
+    "2025/2025 - Segundo Semestre/Cálculo IV /Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
+    "2025/2025 - Segundo Semestre/Física IV/Capítulo 35 - Interferência.canvas",
+    "Pasted image/Pasted image 20251113154246.png",
+    "Pasted image/Pasted image 20251113153332.png",
+    "Pasted image/Pasted image 20251113153326.png",
+    "Pasted image/Pasted image 20251113152901.png",
     "Pasted image/Pasted image 20251108181526.png",
-    "Joves Parceitos do Diracstão/Joves Parceitos do Diracstão.md",
-    "2025/2025 - Segundo Semestre/Física IV/Capítulo 35 - Interferência.md",
     "Pasted image/Pasted image 20251106094141.png",
     "Pasted image/Pasted image 20251106094106.png",
-    "Vault.md",
     "Pasted image/Pasted image 20251106092900.png",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 4 - Espaço Vetorial.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 6.md",
-    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 1 - Introdução.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 1 - Matrizes.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 3 - Determinante e Matriz Inversa.md",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Capítulo 2 - Sistema de Equações Lineares.md",
     "Pasted image/Pasted image 20251028103607.png",
     "Pasted image/Pasted image 20251028103531.png",
-    "2025/2025 - Segundo Semestre/Álgebra Linear/Álgebra Linear.md",
-    "2025/2025 - Primeiro Semestre/Evolução do Conhecimento Cientifico/P3/(Lista) Ciências Modernas - Relatividade e Física Quântica.md",
-    "Produto Vetorial.md",
-    "2025/2025 - Segundo Semestre/Física IV/Capítulo 33 - Ondas Eletromagnéticas.md",
-    "2025/2025 - Segundo Semestre/Cálculo IV/Capítulo 2 - Equações Diferenciais de Primeira Ordem.md",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 29.canvas",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 28.canvas",
-    "2025/2025 - Segundo Semestre/Cálculo IV/[13.10] [EDO'S Homogêneas & EDO'S de Segunda Ordem].md",
-    "Sociedade do Foco/Aprendizagem de Alta Performance/Como Criar um Cronograma de Estudos.md",
-    "Organização (Universidade)/Métodos de Estudo e Revisão.md",
     "2025/2025 - Primeiro Semestre/Física III/Cornell/Capítulo 21/Aula do dia 05.05.canvas",
-    "Checklist GVBus.md",
-    "Sociedade do Foco/Sociedade do Diracstão/Modelo Padrão.md",
-    "Organização (Universidade)/Cronograma de Estudos (Atividade Sociedade do Foco).md",
     "Joves Parceitos do Diracstão",
     "Tags",
     "2025",
@@ -236,18 +276,12 @@
     "2025/2025 - Segundo Semestre/Práticas de Física IV",
     "2025/2025 - Segundo Semestre/Termodinâmica",
     "2025/2025 - Segundo Semestre/Física IV",
-    "2025/2025 - Segundo Semestre/Cálculo IV",
-    "2025/2025 - Segundo Semestre/Álgebra Linear",
-    "Pasted image/Pasted image 20250913190749.png",
-    "Pasted image/Pasted image 20250913190247.png",
+    "2025/2025 - Segundo Semestre/Cálculo IV ",
     "2025 - Primeiro Semestre/Cálculo III/Capítulo 16.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.3) Derivadas Parciais.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.2) Limites e Cotinuaidade.canvas",
     "2025/2025 - Primeiro Semestre/Cálculo III/14.1) Funções de Várias Variáveis.canvas",
-    "Pasted image/Pasted image 20250825095727.png",
-    "Pasted image/Pasted image 20250818191022.png",
     "Evolução do Conhecimento Cientifico/A3 - Relatividade Geral e Restrita e Física Moderna.canvas",
-    "Templates/Cornell_Template 1 1.canvas",
-    "2025/2025 - Primeiro Semestre/Física II/Capítulo 20 - A 2° Lei da Termodinâmica.canvas"
+    "Templates/Cornell_Template 1 1.canvas"
   ]
 }
